@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+keras
+beautifulsoup4
+requests
+plotly
+streamlit-option-menu
