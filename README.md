@@ -1,5 +1,3 @@
-# Major_Project : Plant Disease Detection and Diagnosis
-
 # Plant Disease Detection and Diagnosis
 
 This project uses machine learning models to detect plant diseases based on images of leaves. The system is built with **Streamlit**, **TensorFlow**, and **Keras**, allowing users to upload images of plant leaves and receive information about the possible disease affecting the plant, along with treatment recommendations.
@@ -26,4 +24,11 @@ To run the project locally, follow these steps:
    git clone https://github.com/YourUsername/Plant-Disease-Detection.git
    cd Plant-Disease-Detection
    ```
-   
+2. Install dependencies: Create a virtual environment (optional) and install the necessary dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the application: To run the Streamlit application, use the following command:
+   ```bash
+   streamlit run app.py
+   ```
