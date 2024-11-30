@@ -24,11 +24,11 @@ To run the project locally, follow these steps:
    git clone https://github.com/NageenaS/Major_Project.git
    cd Major_Project
    ```
-2. Install dependencies: Create a virtual environment (optional) and install the necessary dependencies:
+2. **Install dependencies: Create a virtual environment (optional) and install the necessary dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the application: To run the Streamlit application, use the following command:
+3. **Run the application: To run the Streamlit application, use the following command**:
    ```bash
    streamlit run app.py
    ```
