@@ -21,8 +21,8 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/Plant-Disease-Detection.git
-   cd Plant-Disease-Detection
+   git clone https://github.com/NageenaS/Major_Project.git
+   cd Major_Project
    ```
 2. Install dependencies: Create a virtual environment (optional) and install the necessary dependencies:
    ```bash
